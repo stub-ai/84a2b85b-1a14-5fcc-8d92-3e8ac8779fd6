@@ -1,0 +1,1 @@
+{"config":{"system_prompt":"","model":"","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"code for a website to insert an interactive animated voice avatar. The avatar answers text questions from a user and responds by sourcing information data from an open-source LLM.","md5":"3ad88bec65f5e38f935063a7b32ffcc3"}]}
